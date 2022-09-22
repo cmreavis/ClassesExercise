@@ -1,0 +1,15 @@
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.exe
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.deps.json
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.runtimeconfig.json
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.dll
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\bin\Debug\net6.0\ClassesExercise1.pdb
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.csproj.AssemblyReference.cache
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.AssemblyInfoInputs.cache
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.AssemblyInfo.cs
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.dll
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\refint\ClassesExercise1.dll
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.pdb
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ClassesExercise1.genruntimeconfig.cache
+C:\Users\cmrea\repos\Classes\ClassesExercise1\ClassesExercise1\obj\Debug\net6.0\ref\ClassesExercise1.dll
